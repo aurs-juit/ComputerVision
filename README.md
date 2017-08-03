@@ -1,4 +1,5 @@
-# ComputerVision
+# Computer Vision 
+**Developed and managed by computer vision group of Aerial and Underwater Robotics Society | JUIT**<br>
 Computer Vision codes and Tutorials. Tutorial codes implemented on Octave and OpenCV codes in Python/C++
 <br>
 **Installing Octave on Ubuntu**
