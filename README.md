@@ -1,5 +1,7 @@
-# Computer Vision 
-**Developed and managed by computer vision group of Aerial and Underwater Robotics Society | JUIT**<br>
+## Computer Vision 
+
+**Developed and managed by computer vision group of Aerial and Underwater Robotics Society | JUIT**
+<br>
 Computer Vision codes and Tutorials. Tutorial codes implemented on Octave and OpenCV codes in Python/C++
 <br>
   **Installing Octave on Ubuntu**<br>
@@ -19,6 +21,7 @@ Try to check if cv2 has installed by:<br><br>
           `print cv2.__version__`<br><br>
 It shall print the version of OpenCV if correctly installed else will give some error.
 <br>
+
 **Addition libraries to install for more effecient and real time computer vision applications.**<br>
          `sudo pip install ipython`<br>
          `sudo pip install matplotlib`<br> 
