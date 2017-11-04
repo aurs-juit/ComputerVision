@@ -2,12 +2,21 @@
 **Developed and managed by computer vision group of Aerial and Underwater Robotics Society | JUIT**<br>
 Computer Vision codes and Tutorials. Tutorial codes implemented on Octave and OpenCV codes in Python/C++
 <br>
-**Installing Octave on Ubuntu**
-- `sudo apt-add-repository ppa:octave/stable`
-- `sudo apt-get update`
-- `sudo apt-get install octave`
+  **Installing Octave on Ubuntu**
+         `sudo apt-add-repository ppa:octave/stable`
+         `sudo apt-get update`
+         `sudo apt-get install octave`
 <br>
-This installs the latest version of Octave and currently it is 4.0.2
+ **Installing OpenCV Python on Ubuntu**
+         `sudo apt-get install python`
+         `sudo apt-get install python-numpy` 
+         `sudo apt-get install python-scipy`
+         `sudo apt-get install libopencv-*`
+         `sudo apt-get install python-opencv`
+This installs the OpenCV 2.x and alternatively you can use pip.<br>
+Try to check if cv2 has installed by:
+          `import cv2`
+          `print cv2.__version__`
 
 ---
 
