@@ -3,20 +3,20 @@
 Computer Vision codes and Tutorials. Tutorial codes implemented on Octave and OpenCV codes in Python/C++
 <br>
   **Installing Octave on Ubuntu**
-         `sudo apt-add-repository ppa:octave/stable`
-         `sudo apt-get update`
-         `sudo apt-get install octave`
+         `sudo apt-add-repository ppa:octave/stable`<br>
+         `sudo apt-get update`<br>
+         `sudo apt-get install octave`<br>
 <br>
  **Installing OpenCV Python on Ubuntu**
-         `sudo apt-get install python`
-         `sudo apt-get install python-numpy` 
-         `sudo apt-get install python-scipy`
-         `sudo apt-get install libopencv-*`
-         `sudo apt-get install python-opencv`
+         `sudo apt-get install python`<br>
+         `sudo apt-get install python-numpy`<br> 
+         `sudo apt-get install python-scipy`<br>
+         `sudo apt-get install libopencv-*`<br>
+         `sudo apt-get install python-opencv`<br>
 This installs the OpenCV 2.x and alternatively you can use pip.<br>
-Try to check if cv2 has installed by:
-          `import cv2`
-          `print cv2.__version__`
+Try to check if cv2 has installed by:<br>
+          `import cv2`<br>
+          `print cv2.__version__`<br>
 
 ---
 
