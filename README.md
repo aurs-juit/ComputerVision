@@ -17,7 +17,14 @@ This installs the OpenCV 2.x and alternatively you can use pip.<br>
 Try to check if cv2 has installed by:<br><br>
           `import cv2`<br>
           `print cv2.__version__`<br><br>
-
+It shall print the version of OpenCV if correctly installed else will give some error.
+<br>
+**Addition libraries to install for more effecient and real time computer vision applications.**<br>
+         `sudo pip install ipython`<br>
+         `sudo pip install matplotlib`<br> 
+         `sudo apt-get install python-sklearn`<br>
+         `sudo apt-get install python-skimage`<br>
+         `sudo pip install moviepy`<br><br>
 ---
 
 ## What is it?
